@@ -484,7 +484,7 @@ You can use the `&hide_progress=true` option to hide the percentages and the pro
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+[![screw_hand's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=screw_hand)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 > **Note**:
@@ -492,13 +492,13 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ### Demo
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+[![screw_hand's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=screw_hand)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![screw_hand's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=screw_hand&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 -   Compact layout
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![screw_hand's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=screw_hand&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 
@@ -556,7 +556,7 @@ Choose from any of the [default themes](#themes)
 
 -   WakaTime card
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+[![screw_hand's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=screw_hand)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 
